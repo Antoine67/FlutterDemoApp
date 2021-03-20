@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "721058984979",
+    "firebase_url": "https://phonedevalgo-f1e9e.firebaseio.com",
+    "project_id": "phonedevalgo-f1e9e",
+    "storage_bucket": "phonedevalgo-f1e9e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:721058984979:android:34ad3bc4421b18cf3b7be6",
+        "android_client_info": {
+          "package_name": "com.devalgo.phones"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "721058984979-bai3miss5dfm7cog7fju5hpcffk21r12.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCobUTwc1OT4c_t4MIY75oDOcLn56lR8Ag"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "721058984979-bai3miss5dfm7cog7fju5hpcffk21r12.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
